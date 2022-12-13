@@ -2,7 +2,7 @@
   "name": "2022netflix",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://watchmakker.github.io/NetflixClone/",
+  "homepage": "https://netflixclonea00833952.netlify.app",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@reduxjs/toolkit": "^1.8.6",
